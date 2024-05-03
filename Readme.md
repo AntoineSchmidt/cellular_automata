@@ -11,12 +11,13 @@ This project is:
 run> *alife.exe data.xml setting-id*
 
 All automata rules, the world (initial state, size, dimension) and the wanted outputs (bmp images, sdl window, console) can be configurated in a xml file.\
-Checkout data.xml and data_lab.xml for examples.\
-*linux_dependencies.txt* states all dependencies needed using linux.
+Checkout
+<a href="code/data.xml">data.xml</a> and <a href="code/data_lab.xml">data_lab.xml</a> for examples.\
+*<a href="code/linux_dependencies.txt">linux_dependencies.txt</a>* states all dependencies needed using linux.
 
 ## Langton Loops (setting-id: 0)
-<img src="./media/anim_a.gif">
+<img src="media/anim_a.gif">
 
 ## Evoloops (setting-id: 1)
-<img src="./media/anim_b.gif">
+<img src="media/anim_b.gif">
 
